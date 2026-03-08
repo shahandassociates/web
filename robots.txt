@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shahandassociates.github.io/web/sitemap.xml
